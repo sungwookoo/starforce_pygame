@@ -1,0 +1,16 @@
+# Common
+build/
+.idea/
+
+# Python
+*.pyc
+__pycache__/
+
+# DB
+db_config.py
+
+# Pyinstaller
+dist/
+*.spec
+*.zip
+
